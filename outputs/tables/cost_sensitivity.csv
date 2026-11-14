@@ -1,0 +1,5 @@
+scenario,review_threshold,block_threshold,cost
+Low fraud loss,0.07,0.44000000000000006,79320.0
+Base case,0.05,0.34,125580.0
+High fraud loss,0.05,0.14,177580.0
+High customer friction,0.07,0.44000000000000006,220320.0

@@ -1,0 +1,13 @@
+check,invalid_count
+transaction_amount_negative,0
+distance_negative,0
+transactions_last_1h_negative,0
+transactions_last_24h_negative,0
+account_age_negative,0
+device_age_negative,0
+email_age_negative,0
+hour_invalid,0
+day_of_week_invalid,0
+new_device_invalid,0
+billing_mismatch_invalid,0
+fraud_invalid,0

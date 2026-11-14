@@ -1,0 +1,9 @@
+column,unique_count,most_frequent
+transaction_id,3000,TXN5000001
+card_presence,2,Present
+channel,4,E-commerce
+country,7,Sri Lanka
+device_type,5,Android
+merchant_category,10,Grocery
+authentication_level,2,Strong
+customer_tier,4,Basic

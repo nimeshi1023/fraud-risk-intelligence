@@ -1,0 +1,5 @@
+model,cv_pr_auc,validation_roc_auc,validation_pr_auc,precision,recall,f1,best_parameters
+Logistic Regression,0.23721127718434118,0.7040108133399184,0.24487945599719912,0.205607476635514,0.6027397260273972,0.30662020905923343,"{'model__solver': 'lbfgs', 'model__C': 0.01}"
+Random Forest,0.20688234040791748,0.6568064256192976,0.21052155262084235,0.5,0.0273972602739726,0.05194805194805195,"{'model__n_estimators': 300, 'model__min_samples_leaf': 5, 'model__max_features': 'sqrt', 'model__max_depth': None}"
+Random Forest ROS,0.2070428654562148,0.6531153336279275,0.22175412915096976,0.20666666666666667,0.4246575342465753,0.27802690582959644,"{'model__n_estimators': 200, 'model__min_samples_leaf': 5, 'model__max_depth': 5}"
+XGBoost,0.19945664940329816,0.6430038210600193,0.189324527870477,0.18831168831168832,0.3972602739726027,0.2555066079295154,"{'model__subsample': 0.8, 'model__n_estimators': 100, 'model__max_depth': 3, 'model__learning_rate': 0.05}"

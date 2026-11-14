@@ -1,0 +1,2 @@
+roc_auc,pr_auc,brier_score,precision_at_050,recall_at_050,f1_at_050,default_policy_cost,optimized_policy_cost,fraud_capture_rate,review_count,block_count,approve_count
+0.6798627537625743,0.22467338966973674,0.1020217738189575,0.0,0.0,0.0,365000,138420,0.9452054794520548,493,18,89

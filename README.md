@@ -148,7 +148,3 @@ Random seed: 42
 
 Data splits and trained artifacts are stored in outputs/models.
 
-## 9. Disclaimer
-
-This project is an academic and internship demonstration.
-It is not certified for real financial production deployment.
